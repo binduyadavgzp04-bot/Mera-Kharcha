@@ -1,0 +1,11 @@
+{
+  "id": "/",
+  "name": "Mera Kharcha",
+  "short_name": "Kharcha",
+  "description": "Hindi Expense Tracker",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f766e"
+}
